@@ -1,1 +1,2 @@
 # Wedding
+Simply created a class named Person that contains two string objects for the persons first and last name with a LocalDate object for the persons birthdate. Then created a new class named Couple that has two Person objects in them. Also have a class named wedding for the planning of the wedding that has the date of the wedding, and the names of the Couple being married plus a string for the location. Included constructors for each clas that allows parameters for each field and provides get methods for each field. 
